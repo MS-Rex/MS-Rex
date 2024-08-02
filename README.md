@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Latest Blog Posts & Articles
-- [How to Fix : Flutter [flutter_secure_storage] Exception encountered, read, javax.crypto.BadPaddingException Issue on Android: A Step-by-Step Guide](https://medium.com/@miyurusanjana7126/how-to-fix-flutter-flutter-secure-storage-exception-encountered-read-javax-crypto-badpaddingex-fc3ee5fede36)
+- [Give it a Try : Git Commit Templates](https://medium.com/@miyurusanjana7126/give-it-a-try-git-commit-templates-e738332b7452)
 - [https://medium.com/@miyurusanjana7126/how-to-fix-flutter-go-router-popscope-issue-on-android-a-step-by-step-guide-094ab9be25c4](https://medium.com/@miyurusanjana7126/how-to-fix-flutter-go-router-popscope-issue-on-android-a-step-by-step-guide-094ab9be25c4)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
