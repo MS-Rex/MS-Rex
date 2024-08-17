@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Latest Blog Posts & Articles
+- [Flutter Records : Just a taste](https://medium.com/@miyurusanjana7126/flutter-records-just-a-taste-dcc43d22b672)
 - [Give it a Try : Git Commit Templates](https://medium.com/@miyurusanjana7126/give-it-a-try-git-commit-templates-e738332b7452)
-- [https://medium.com/@miyurusanjana7126/how-to-fix-flutter-go-router-popscope-issue-on-android-a-step-by-step-guide-094ab9be25c4](https://medium.com/@miyurusanjana7126/how-to-fix-flutter-go-router-popscope-issue-on-android-a-step-by-step-guide-094ab9be25c4)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
