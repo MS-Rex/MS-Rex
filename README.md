@@ -10,7 +10,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on public/private projects and write tech articles based on that exp.
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrrex) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@miyurusanjana7126) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Low-Squash-9225/s/eLC3NCKio0) [![Twitter](https://img.shields.io/twitter/follow/SanjanaMiyuru?logo=Twitter&style=for-the-badge)](https://twitter.com/SanjanaMiyuru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrrex) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://msanjana.medium.com/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Low-Squash-9225/s/eLC3NCKio0) [![Twitter](https://img.shields.io/twitter/follow/SanjanaMiyuru?logo=Twitter&style=for-the-badge)](https://twitter.com/SanjanaMiyuru)
 
 
 ---
