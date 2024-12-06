@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### ✍️ Latest Blog Posts & Articles
-- [Flutter Records : Just a taste](https://medium.com/@miyurusanjana7126/flutter-records-just-a-taste-dcc43d22b672)
-- [Give it a Try : Git Commit Templates](https://medium.com/@miyurusanjana7126/give-it-a-try-git-commit-templates-e738332b7452)
+- [Flutter: All you need to know about StringBuffer (Dart)](https://medium.com/stackademic/flutter-all-you-need-to-know-about-stringbuffer-dart-bae1f6d7c24e)
+- [Mobile Engineer POV : Validate Your Ideas ASAP](https://medium.com/@msanjana/mobile-engineer-pov-validate-your-ideas-asap-100a2ba04751)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
